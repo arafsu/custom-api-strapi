@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "satelits",
+  "info": {
+    "singularName": "satelit",
+    "pluralName": "satelits",
+    "displayName": "satelit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    },
+    "deskripsi": {
+      "type": "richtext"
+    }
+  }
+}

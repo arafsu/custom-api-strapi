@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "publiks",
+  "info": {
+    "singularName": "publik",
+    "pluralName": "publiks",
+    "displayName": "publik"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "judul": {
+      "type": "string"
+    },
+    "keterangan": {
+      "type": "richtext"
+    }
+  }
+}
